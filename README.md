@@ -1,10 +1,10 @@
-
 ```css
-.brew-and-code {
+#brew-and-code {
   brain: online;
-  position: brazil; 
-  height: 181cm; 
-  display: boy; 
-  background: <stdio.h> fan 🧪; 
-  color: black 
+  position: brazil;
+  height: 181cm;
+  display: boy;
+  background: '<stdio.h> fan 🧪';
+  color: black;
+}
 ```
