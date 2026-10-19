@@ -2,10 +2,9 @@
 ```css
 .brew-and-code {
   brain: online;
-  coffee: brewing;
-  code: compiling;
-  bugs: debugging;
-  focus: 100%;
-  status: learning;
-}
+  position: brazil; 
+  height: 181cm; 
+  display: boy; 
+  background: <stdio.h> fan 🧪; 
+  color: black 
 ```
