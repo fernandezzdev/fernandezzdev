@@ -1,11 +1,11 @@
 ```css
-#brew-and-code {
-  position: brazil;
-  height: 181cm;
-  display: boy;
-  background: '<stdio.h> fan 🧪';
-  color: black;
+int main() {
 
-  brain: err0r.exe
+  int: brain;
+
+  printf("brazil, 181cm, boy and a little '<stdio.h>' fan 🧪");
+  scanf("%d", %brain);
+
+  return 0;
 }
 ```
